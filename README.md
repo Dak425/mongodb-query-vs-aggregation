@@ -2,6 +2,7 @@
 
 ## Prerequisites
 
+- Can connect to a MongoDB instance
 - Basic knowledge of standard query usage such as using filters
 - Know how to build a simple aggregation pipeline and look up aggregation stages
 - Know how to insert documents into a MongoDB instance
